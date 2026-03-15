@@ -1,2 +1,2 @@
-# Issue
-I'm going to start my GitHub journey and this is mine first issue hehehe
+# saniya Demo 
+this is my first Git repository 
